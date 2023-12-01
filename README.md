@@ -1,5 +1,3 @@
-# SphynxWebsite
-
 # Sphynx Cat Website
 
 This repository contains the source code for the Sphynx Cat website. The website showcases information about Sphynx cats, their characteristics, and provides a visually appealing interface for users.
